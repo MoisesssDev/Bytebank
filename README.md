@@ -17,7 +17,7 @@ Para rodar este projeto, você precisa ter instalado em sua máquina:
 1. Clone este repositório em sua máquina local:
 
 ```bash
-  git clone https://github.com/[username]/banco-ficticio.git
+  git clone https://github.com/MoisesssDev/banco-ficticio.git
 ```
 
 2. Abra o projeto em sua IDE preferida e execute a classe principal, chamada `Conta.java`
